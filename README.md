@@ -186,7 +186,7 @@ ___
 
 Se o ``developerId`` informado não existir é retornado o ``StatusCode 400`` com o response abaixo:
 
-+ Response 404 (application/json)
++ Response 400 (application/json)
     + Body
     
             {
