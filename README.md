@@ -17,7 +17,7 @@
       docker exec -it laradock_workspace_1 composer install
       docker exec -it laradock_workspace_1 php artisan migrate
       ```
-4. Instalar as depencias
+4. Instalar as dependencias
       ```
       docker exec -it laradock_workspace_1 npm install
       ```
